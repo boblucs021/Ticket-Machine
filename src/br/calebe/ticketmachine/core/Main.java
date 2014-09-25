@@ -10,6 +10,6 @@ package br.calebe.ticketmachine.core;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Ticket Machine!!");
+        System.out.println("Hello Ticket Machine!");
     }
 }
